@@ -43,6 +43,7 @@ span{
 }
 .intro{
     display: flex;
+    margin-left: 10%;
 }
 .img-diet img{
     width: 80%;
@@ -52,4 +53,28 @@ span{
     width: 100%;
     margin-left: 5%;
     margin-right: 5%;
+}
+.me{
+    color: rgb(138, 105, 138);
+    font-weight: 700;
+}
+.about{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 5%;
+}
+.img-person img{
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: 5%;
+}
+.us{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 20px;
+    
 }
