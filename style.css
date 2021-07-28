@@ -119,3 +119,21 @@ span{
     margin: auto;
     padding: auto;
 }
+.footer-f{
+    color: hsl(22deg 45% 34%);
+    margin: 5% 5% 5% 5%;
+}
+.footer-s{
+    color: hsl(240deg 6% 28%);
+}
+.footer-text{
+    text-align: center;
+}
+.footer{
+    background-color: hsl(225deg 35% 7%);
+    border-radius: 10px;
+    margin: 5% 5% 5% 5%;
+}
+.quote{
+    color: white;
+}
