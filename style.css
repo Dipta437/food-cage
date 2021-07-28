@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    
+}
+ul{
+    font-size: 20px;
+    list-style-type: none;
+    display: flex;
+    float: right;
+    
+}
+li{
+    padding: 5px 10px;
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+p{
+    font-size: 25px;
+}
+.cage{
+    font-size: 30px;
+}
+.header-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+span{
+    color: olivedrab;
+}
+.button{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    background-image: linear-gradient(orange,gray);
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+}
+.intro{
+    display: flex;
+}
+.img-diet img{
+    width: 80%;
+    height: auto;
+}
+.diet-section{
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
