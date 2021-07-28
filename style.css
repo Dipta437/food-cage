@@ -78,3 +78,34 @@ span{
     padding-right: 20px;
     
 }
+.my-recipies{
+    text-align: center;
+}
+.recipies{
+    color: rgb(138, 105, 138);
+    font-weight: 700;
+}
+.foody{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.food1 img{
+    width: 80%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.first-s{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 20px 20px 40px gray;
+    border-radius: 10px;
+}
+.details{
+    display: flex;
+}
